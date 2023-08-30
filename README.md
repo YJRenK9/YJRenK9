@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YJRenK9
 - 👀 I’m interested in computer programming, web development, game development, and digital media art
-- 🌱 I’m currently learning Python, JavaScript, SQL, and C++
+- 🌱 I’m currently learning Python, JavaScript, SQL, and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
